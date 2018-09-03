@@ -52,6 +52,8 @@ group :development do
   # 对`passenger`与`rvm`的支持
   gem 'capistrano-passenger'
   gem 'capistrano-rvm'
+
+  gem 'pry'
 end
 
 group :test do
